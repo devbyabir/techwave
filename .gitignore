@@ -1,0 +1,7 @@
+# Local design references are preserved outside the published source.
+assets/UI/
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.log
