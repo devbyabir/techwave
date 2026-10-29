@@ -1,5 +1,7 @@
 # TechWave
 
+**[View Live Demo →](https://devbyabir.github.io/techwave/)**
+
 A responsive podcast landing page about technology, productivity, and personal growth. Built as part of my frontend learning journey with semantic HTML and custom CSS.
 
 ## What I practiced
@@ -39,4 +41,4 @@ Visual assets are based on the supplied practice design; episode poster crops we
 
 ## Hosting
 
-The project is ready for GitHub Pages using the `main` branch and `/(root)` folder. A live demo link will be added after deployment is verified.
+Hosted on [GitHub Pages](https://devbyabir.github.io/techwave/) using the `main` branch and `/(root)` folder.
